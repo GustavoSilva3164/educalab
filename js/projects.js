@@ -30,22 +30,22 @@ function openProjectModal(projectId) {
     const projectData = {
         sisQual: {
             title: 'SIS-QUAL',
-            description: 'Sistema de qualificação e acompanhamento de projetos educacionais.',
+            description: 'O SIS Qual centraliza o acompanhamento pedagógico e institucional em um só lugar. Em vez de perder semanas cruzando planilhas e gerando relatórios manuais, a equipe escolar visualiza gargalos e avanços em tempo real. Assim, gestores e professores atuam de forma cirúrgica nas dificuldades da turma, transformando dados brutos em melhoria concreta no ensino. ',
             url: 'https://sis-qual.lovable.app/'
         },
         carracoCorrector: {
             title: 'Carraco Corrector',
-            description: 'Ferramenta web para revisão e correção de textos.',
+            description: 'o Carraco é um estúdio de redação inteligente que ajuda estudantes a evoluírem na escrita e professores a otimizarem suas correções, tornando o aprendizado mais acessível, interativo e eficiente.',
             url: 'https://carraco-corrector.lovable.app/'
         },
         qualiNotas: {
             title: 'QualiNotas',
-            description: 'Sistema de gestão e análise de desempenho acadêmico.',
+            description: 'O QualiNotas é o painel analítico para a gestão do desempenho escolar. Ele traduz dados de turmas em insights claros e imediatos, facilitando decisões rápidas e estratégicas para melhorar o aprendizado em escala.',
             url: 'https://yasminsilvaaa.github.io/QualiNotas/'
         },
         logicTech: {
             title: 'LogicTech',
-            description: 'Sistema de gestão e análise de desempenho acadêmico.',
+            description: 'uma solução prática pensada para otimizar o tempo de educadores e transformar a preparação de aulas. A plataforma reúne um acervo centralizado de apresentações didáticas prontas para download, organizadas por disciplinas e conteúdos específicos. Em poucos cliques, professores têm acesso a materiais estruturados e visualmente atrativos, prontos para serem aplicados imediatamente em sala de aula — unindo produtividade docente e qualidade no ensino.',
             url: 'https://helder650.github.io/projeto-gestao-de-startup-2/'
         },
         drmquest: {
