@@ -48,6 +48,11 @@ function openProjectModal(projectId) {
             description: 'Sistema de gestão e análise de desempenho acadêmico.',
             url: 'https://helder650.github.io/projeto-gestao-de-startup-2/'
         },
+        drmquest: {
+            title: 'Drmquest',
+            description: 'O DRM Quest é o ecossistema educacional oficial da EEEP Deputado Roberto Mesquita. Ele automatiza a parte mecânica do trabalho pedagógico — pesquisa, diagramação e gabarito — para que professores invistam o tempo onde importa: mediar a aprendizagem. Alunos ganham simulados personalizados com correção imediata e justificativas construídas a partir de questões reais de vestibulares.',
+            url: 'https://lucsquestion-3ds.lovable.app'
+        },
     };
     
     const project = projectData[projectId];
